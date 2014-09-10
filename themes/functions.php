@@ -24,7 +24,6 @@
  * @subpackage Twenty_Fourteen
  * @since Twenty Fourteen 1.0
  * 
- * Cool!
  */
 
 /**
